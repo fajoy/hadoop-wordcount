@@ -1,4 +1,4 @@
-專按說明
+專案說明
 ================
 * 此為hadoop-example所使用的 wordcount程式碼
 
